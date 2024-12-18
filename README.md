@@ -15,48 +15,53 @@ Data Structure specific algorithms:
 ## I.LINEAR DATA STRUCTURES
 
 # 1. Arrays
-
   Sorting:
     QuickSort: Efficient average-case time complexity (O(nlog n))
-    
     MergeSort: Stable sort, useful when order matters (O(nlog n))
 
   Searching:
     Binary Search: Fast search in sorted arrays (O(log n))
 
-Two Pointers:
+  Two Pointers:
+    In-place manipulation, often for sorted arrays (e.g., removing duplicates)
 
-In-place manipulation, often for sorted arrays (e.g., removing duplicates)
+  Sliding Window:
+    Subarray problems, finding maximum/minimum within a window
 
-Sliding Window:
+# 2. Linked Lists
+  Traversal:
+    Iterate through the list, understand the node structure
+    
+  Insertion/Deletion:
+    At beginning, end, or at a specific position
+    
+  Reversal:
+    In-place reversal, recursive and iterative approaches
 
-Subarray problems, finding maximum/minimum within a window
+  Cycle Detection:
+    Floyd's Tortoise and Hare algorithm
+    
+# 3. Stacks
+  Implementation not needed. Just understand following
+    
+  Push/Pop/Peek Operations
 
-2. Linked Lists
-Traversal:
+# 4. Queues
+  Implementation not needed. Just understand following:
 
-Iterate through the list, understand the node structure
+  Enqueue/Dequeue Operations
 
-Insertion/Deletion:
+# 5.Strings
+  
+## II.NON-LINEAR DATA STRUCTURES
 
-At beginning, end, or at a specific position
+# 1.Hash Tables (Hash Maps/Sets)
+   Implementation not needed. Just understand following:
+      =>  Understand how hash functions work
+      =>  Insertion/Deletion/Lookup
+      =>  Collision Handling
 
-Reversal:
 
-In-place reversal, recursive and iterative approaches
-
-Cycle Detection:
-
-Floyd's Tortoise and Hare algorithm
-
-3. Hash Tables (Hash Maps/Sets)
-Implementation not needed. Just understand following:
-
-Understand how hash functions work
-
-Insertion/Deletion/Lookup
-
-Collision Handling
 
 4. Trees (Binary Trees, Binary Search Trees, etc.)
 Traversal:
@@ -67,15 +72,9 @@ Searching:
 
 Find a node with a given value (especially in BSTs)
 
-5. Stacks
-Implementation not needed. Just understand following:
 
-Push/Pop/Peek Operations
 
-6. Queues
-Implementation not needed. Just understand following:
 
-Enqueue/Dequeue Operations
 
 7. Heaps (Priority Queues)
 Implementation not needed. Just understand following:
