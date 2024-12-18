@@ -1,26 +1,28 @@
-###### DSA
+# DSA
 This repo contains DSA informations
 
 
 Algorithms are divided into 2 broad categories:
 
-## Data Structure specific algorithms
+### Data Structure specific algorithms
 
-## General algorithms/techniques
+### General algorithms/techniques
 
 Implement all the algorithms unless otherwise specified.
 
-Data Structure specific algorithms
-1. Arrays
-Sorting:
+Data Structure specific algorithms:
 
-QuickSort: Efficient average-case time complexity (O(nlog n))
+## I.LINEAR DATA STRUCTURES
 
-MergeSort: Stable sort, useful when order matters (O(nlog n))
+# 1. Arrays
 
-Searching:
+  Sorting:
+    QuickSort: Efficient average-case time complexity (O(nlog n))
+    
+    MergeSort: Stable sort, useful when order matters (O(nlog n))
 
-Binary Search: Fast search in sorted arrays (O(log n))
+  Searching:
+    Binary Search: Fast search in sorted arrays (O(log n))
 
 Two Pointers:
 
