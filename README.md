@@ -4,9 +4,9 @@ This repo contains DSA informations
 
 Algorithms are divided into 2 broad categories:
 
-### Data Structure specific algorithms
+# Data Structure specific algorithms
 
-### General algorithms/techniques
+# General algorithms/techniques
 
 Implement all the algorithms unless otherwise specified.
 
@@ -98,4 +98,32 @@ Implement all the algorithms unless otherwise specified.
       Using a trie for word suggestions
 
 
-#  General algorithms/techniques
+##  General algorithms/techniques
+
+# 1. Recursion
+   * Defining a problem in terms of itself, often leading to elegant and concise solutions.
+
+   Solve: Factorial calculation, tree traversals, depth-first search.
+
+# 2. Dynamic Programming
+   Breaking down a problem into overlapping subproblems and storing solutions to avoid recomputation.
+
+   Solve: Fibonacci sequence, Knapsack problem, Longest Common Subsequence.
+
+# 3. Greedy Algorithms
+   Making locally optimal choices at each step with the hope of finding a global optimum.
+
+   Implement: Kruskal's algorithm for minimum spanning trees.
+
+# 4. Backtracking
+   Incrementally building solutions, exploring all possible paths, and abandoning invalid ones.
+
+   Solve: Sudoku solver, N-Queens problem, generating permutations.
+
+
+This following link will contains 100 coding problems.arranged in increasing order of difficult level.
+<a href="url">https://instabyte.io/p/interview-master-100</a>
+
+
+This  following link contains 3 months plan to crack coding interviews
+<a href="url">https://www.interviewbit.com/interview-preparation-kit/study-plan-3-months/</a>
