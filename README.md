@@ -4,14 +4,14 @@ This repo contains DSA informations
 
 Algorithms are divided into 2 broad categories:
 
-# Data Structure specific algorithms
+# 1.Data Structure specific algorithms
 
-# General algorithms/techniques
+# 2.General algorithms/techniques
 
 Implement all the algorithms unless otherwise specified.
 
 
-#Data Structure specific algorithms:
+# 1.Data Structure specific algorithms:
 
 ## I.LINEAR DATA STRUCTURES
 
@@ -98,7 +98,7 @@ Implement all the algorithms unless otherwise specified.
       Using a trie for word suggestions
 
 
-##  General algorithms/techniques
+#  2.General algorithms/techniques
 
 # 1. Recursion
    * Defining a problem in terms of itself, often leading to elegant and concise solutions.
